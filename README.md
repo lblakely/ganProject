@@ -1,7 +1,7 @@
 # ganProject
 CS 546 GAN Genre Combination Project
 
-This repository is the repository for a group class project in CS584, Advanced Topics in Machine Learining.
+This repository is the repository for a group class project in CS546, Advanced Topics in Machine Learining.
 Group members included Logan Blakely, Leila Hawana, Erik Schmauss, Eric Tsai, and Li-Yun Wang.  
 
 This code is the lightly modified version of the code originally from https://github.com/olofmogren/c-rnn-gan and described in this paper:	
